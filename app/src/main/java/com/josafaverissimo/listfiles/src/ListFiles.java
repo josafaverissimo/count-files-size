@@ -6,10 +6,8 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicLong;
-import java.util.stream.Stream;
 
 import com.josafaverissimo.listfiles.src.utils.BinarySearchTree;
-import com.josafaverissimo.listfiles.src.utils.BinaryTreeNode;
 import com.josafaverissimo.listfiles.src.utils.FileComparator;
 import com.josafaverissimo.listfiles.src.utils.FileData;
 
